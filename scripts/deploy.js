@@ -9,6 +9,7 @@ async function main() {
   await nft1155.deployed();
 
   console.log("NFT1155 deployed to:", nft1155.address);
+  // NFT1155 at 0xff4E335171630DF2698D31bd3B7734DB1930DBF6
 }
 
 main()
